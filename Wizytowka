@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wizytówka Studenta</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+    
+    h1 {
+      color: #333;
+    }
+    
+    p {
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <h1>Imię Nazwisko</h1>
+  <p>Studenci</p>
+  <hr>
+  <h2>O mnie</h2>
+  <p>Tutaj wpisz krótki opis o sobie, swoich zainteresowaniach, celach i pasjach.</p>
+  
+  <h2>Edukacja</h2>
+  <ul>
+    <li>Stopień/Aktualnie uczęszczana szkoła - Rok rozpoczęcia - Rok ukończenia (opcjonalnie)</li>
+    <li>Stopień/Aktualnie uczęszczana szkoła - Rok rozpoczęcia - Rok ukończenia (opcjonalnie)</li>
+  </ul>
+  
+  <h2>Umiejętności</h2>
+  <ul>
+    <li>Umiejętność 1</li>
+    <li>Umiejętność 2</li>
+    <li>Umiejętność 3</li>
+  </ul>
+  
+  <h2>Projekty</h2>
+  <ul>
+    <li>Nazwa projektu 1 - Opis projektu</li>
+    <li>Nazwa projektu 2 - Opis projektu</li>
+    <li>Nazwa projektu 3 - Opis projektu</li>
+  </ul>
+  
+  <h2>Kontakt</h2>
+  <ul>
+    <li>Email: example@example.com</li>
+    <li>Telefon: 123-456-789</li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/">LinkedIn Profile</a></li>
+    <li>GitHub: <a href="https://github.com/">GitHub Profile</a></li>
+  </ul>
+</body>
+</html>
